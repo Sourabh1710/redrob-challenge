@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Local Data (Crucial to prevent uploading massive JSONL files to GitHub)
+data/
+*.jsonl
+*.gz
+*.csv
+[PUB] India_runs_data_and_ai_challenge/
+# OS specific files
+.DS_Store
+Thumbs.db
+[PUB] India_runs_data_and_ai_challenge/
