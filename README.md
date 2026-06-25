@@ -29,7 +29,7 @@ An optimized, deterministic, and highly performant Python-native candidate evalu
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.11+ (Fully tested on Python 3.12.3)
